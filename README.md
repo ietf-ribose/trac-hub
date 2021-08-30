@@ -1,3 +1,11 @@
+# trac-hub fork
+
+NOTE: This repository is now superseded by the [`tractive` gem](https://github.com/ietf-ribose/tractive), and is therefore archived.
+
+This was originally a resolved fork of https://github.com/bwl21/trac-hub that has merged back to https://github.com/mavam/trac-hub.
+
+# Content from bwl21
+
 This is a fork of https://github.com/mavam/trac-hub.git whre I collect
 the changes I have made in order to migrate my projects from trac via
 github to gitlab.
@@ -16,9 +24,9 @@ Major changes are
     trac-hub.config.yaml; search the config file in the parent folder
     and in the current folder.
 
-# Getting started
+## Getting started
 
-## Prerequisites
+### Prerequisites
 
 1.  docker
 2.  access to the trac-envionment. Tthis script needs direct access to
